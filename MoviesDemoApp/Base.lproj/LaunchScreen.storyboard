@@ -22,7 +22,7 @@
                                 </constraints>
                             </imageView>
                         </subviews>
-                        <color key="backgroundColor" cocoaTouchSystemColor="scrollViewTexturedBackgroundColor"/>
+                        <color key="backgroundColor" cocoaTouchSystemColor="tableCellGroupedBackgroundColor"/>
                         <constraints>
                             <constraint firstItem="OfY-5W-1pJ" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="Opf-z6-aeG"/>
                             <constraint firstItem="OfY-5W-1pJ" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="bh8-AW-tFo"/>
